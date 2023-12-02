@@ -1,0 +1,4 @@
+Project_1_static_s3_web/.terraform.lock.hcl
+Project_1_static_s3_web/webapp
+*.tfstate*
+Project_1_static_s3_web/.terraform/providers/registry.terraform.io/hashicorp/aws/5.29.0/linux_amd64/terraform-provider-aws_v5.29.0_x5
